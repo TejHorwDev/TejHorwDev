@@ -106,10 +106,8 @@ A defining strength — translating ideas into premium dark-themed interfaces wi
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Discord-2D0A4E?style=for-the-badge&logo=discord&logoColor=D9A5FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Telegram-2D0A4E?style=for-the-badge&logo=telegram&logoColor=D9A5FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-2D0A4E?style=for-the-badge&logo=todoist&logoColor=D9A5FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-2D0A4E?style=for-the-badge&logo=gmail&logoColor=D9A5FF"/></a>
+<a href="https://discord.gg/gVQ9ZYt2yX"><img src="https://img.shields.io/badge/Discord-2D0A4E?style=for-the-badge&logo=discord&logoColor=D9A5FF"/></a>
+<a href="https://tejcorporation.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2D0A4E?style=for-the-badge&logo=todoist&logoColor=D9A5FF"/></a>
 
 </div>
 
