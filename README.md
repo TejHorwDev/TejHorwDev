@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:2d0a4e,100:3d1466&height=260&section=header&text=Tej_horw&fontSize=70&fontColor=D9A5FF&animation=fadeIn&fontAlignY=36&desc=Solo%20Developer%20%7C%20Systems%20Builder%20%7C%20Dark%20UI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+%26+building+every+day;Python+%7C+Flutter+%7C+C%23+%7C+PHP+%7C+Web;Premium%2C+dark-themed+UI+is+my+signature;New+here%2C+big+plans+ahead." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=750&lines=Building+premium%2C+dark-themed+software;Python+%7C+C%23+%7C+Flutter+%7C+PHP+%7C+Web;JARVIS-style+assistants+%26+animated+HUDs;Shipping+full+builds%2C+not+demos." alt="Typing SVG" />
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 ## 🧭 About Me
 
-I'm a self-driven developer sharpening my craft across desktop apps, mobile apps, and web platforms. I'm new to public GitHub work, but not new to building — my focus is on **premium, dark-themed software** that feels polished and complete, not half-finished.
+I'm a self-driven developer sharpening my craft across desktop, mobile, and web platforms. My focus is **premium, dark-themed software** that feels polished and complete — not a half-finished demo.
 
 - 🎨 Strong eye for **UI/UX** — glassmorphism, deep purples, navy, gold, warm metallics — never neon
 - 🧩 Comfortable across multiple stacks: desktop, mobile, and web
-- ⚙️ Interested in systems that feel alive — animated HUDs, real-time dashboards, interactive visuals
+- ⚙️ Interested in systems that feel alive — animated HUDs, real-time dashboards, JARVIS-style assistants
 - 🎮 Into gaming & esports — tournament systems and competitive platforms
 - 📚 Currently leveling up and preparing to push real projects to this profile
 - ⚡ Philosophy: ship things that actually work, not partial demos
@@ -34,7 +34,7 @@ I'm a self-driven developer sharpening my craft across desktop apps, mobile apps
 <td width="50%" valign="top">
 
 **🖥️ Desktop App Development**
-Building native-feeling desktop tools with rich, animated interfaces — frameless windows, custom HUDs, glassmorphism panels, and smooth interactions.
+Native-feeling desktop tools with rich, animated interfaces — frameless windows, custom HUDs, glassmorphism panels, and smooth interactions.
 
 </td>
 <td width="50%" valign="top">
