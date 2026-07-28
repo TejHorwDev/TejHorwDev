@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/FOCUS-DARK%20UI%20%26%20DESKTOP%20APPS-C084FC?style=for-the-badge&labelColor=1a0033"/>
 <img src="https://img.shields.io/badge/BASED%20IN-NEPAL-D9A5FF?style=for-the-badge&labelColor=1a0033"/>
 
+<br/><br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1248940219789606983)](https://discord.com/users/1248940219789606983)
+
 </div>
 
 <br/>
