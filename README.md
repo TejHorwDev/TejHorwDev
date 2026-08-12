@@ -70,7 +70,7 @@ A defining strength — translating ideas into premium dark-themed interfaces wi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,flutter,dart,js,html,css,php,mysql,sqlite,git,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,flutter,dart,js,html,css,sqlite,git&theme=dark" />
 
 </div>
 
