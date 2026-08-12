@@ -76,35 +76,6 @@ A defining strength — translating ideas into premium dark-themed interfaces wi
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TejHorwDev&show_icons=true&theme=dark&hide_border=true&bg_color=0D0221&title_color=C084FC&icon_color=D9A5FF&text_color=E4D6F5&ring_color=8B5CF6" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejHorwDev&theme=dark&hide_border=true&background=0D0221&ring=8B5CF6&fire=D9A5FF&currStreakLabel=C084FC" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejHorwDev&theme=react-dark&bg_color=0D0221&color=D9A5FF&line=8B5CF6&point=C084FC&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
-
-## 🎯 What's Next
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-Publishing%20first%20real%20projects%20soon-1a0033?style=for-the-badge&labelColor=1a0033&color=8B5CF6"/>
-
-</div>
-
-<br/>
 
 ## 🌐 Connect With Me
 
