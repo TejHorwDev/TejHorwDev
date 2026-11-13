@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-<a href="https://discord.gg/gVQ9ZYt2yX"><img src="https://img.shields.io/badge/Discord-2D0A4E?style=for-the-badge&logo=discord&logoColor=D9A5FF"/></a>
 <a href="https://tejcorporation.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2D0A4E?style=for-the-badge&logo=todoist&logoColor=D9A5FF"/></a>
 
 <br/><br/>
