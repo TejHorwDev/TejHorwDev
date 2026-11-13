@@ -21,10 +21,6 @@ Based in Nepal, building premium dark-themed software across desktop, mobile, an
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,nextjs,flutter,dart,js,php,sqlite,git&theme=dark" />
 
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TejHorwDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=D9A5FF&icon_color=C084FC&text_color=E5D4FF&ring_color=8B5CF6"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=TejHorwDev&hide_border=true&background=00000000&ring=8B5CF6&fire=C084FC&currStreakLabel=D9A5FF&sideLabels=E5D4FF&currStreakNum=D9A5FF&sideNums=E5D4FF&dates=9D7BB8"/>
 
 <br/><br/>
 
